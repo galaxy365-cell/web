@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="440" viewBox="0 0 640 440">
+  <rect width="640" height="440" rx="24" fill="#dce9d8"/>
+  <text x="40" y="60" fill="#24664d" font-size="18" font-family="sans-serif">BROWSER / NETWORK / SERVER</text>
+  <rect x="40" y="122" width="224" height="186" rx="12" fill="white" stroke="#24664d" stroke-width="3"/>
+  <path d="M40 157H264" stroke="#24664d" stroke-width="3"/>
+  <circle cx="59" cy="140" r="5" fill="#b86b28"/>
+  <circle cx="78" cy="140" r="5" fill="#b6c8ae"/>
+  <text x="72" y="228" fill="#24664d" font-size="32" font-family="monospace">&lt;html&gt;</text>
+  <path d="M73 257H225 M73 275H190" stroke="#b6c8ae" stroke-width="8"/>
+  <path d="M284 199H367L355 187 M367 199L355 211 M367 250H284L296 238 M284 250L296 262" fill="none" stroke="#24664d" stroke-width="4"/>
+  <rect x="396" y="122" width="194" height="186" rx="12" fill="#24664d"/>
+  <path d="M421 173H565 M421 220H565 M421 267H565" stroke="#dce9d8" stroke-width="12"/>
+  <text x="40" y="385" fill="#24664d" font-size="23" font-family="sans-serif">A small page. A new beginning.</text>
+</svg>
